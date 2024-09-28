@@ -10,14 +10,14 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
+**<h3 align="left">Connect with me</h3>** 
 <p align="left"><a href="https://twitter.com/aldexdev" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://www.linkedin.com/in/alex-delgado-237877225/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://github.com/aldexdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 8px"></a></p>
 
- **<h2 align="left">🚀 Passionate software engineer, creating robust and scalable and usable products. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h2>**
+🚀 Passionate software engineer, creating robust and scalable and usable products. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.
 
- **<h2 align="left">🤖 In my free time I like to build AI solutions, make my own videogames or contribute to open source repos.</h2>**
+🤖 In my free time I like to build AI solutions, make my own videogames or contribute to open source repos.
 
-**<h2 align="left">Know more about me</h2>**
+Check out my blog to know more about me!
 
 - 📝 Blog: **<a href="https://www.aldexdev.com/" target="_blank">https://www.aldexdev.com/</a>**
 
